@@ -109,6 +109,7 @@ The MLP model performs well on some classes such as eosinophils and erythroblast
 Result
 
 The MLP model achieves 87% accuracy. While it performs well on some classes, it struggles with others due to its limited representational power compared to deeper architectures.
+  In the End after Training all this model, the Best one is ConvNext so it was implemented in web page in streamlit to do classfication in the web application,
 
 Conclusion
 
